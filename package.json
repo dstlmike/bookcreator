@@ -4,7 +4,7 @@
   "description": "A minimal Electron application to start bookcreator",
   "main": "main.js",
   "scripts": {
-    "start": "main.js"
+    "start": "node main.js"
   },
   "repository": "https://github.com/RedTo",
   "keywords": [
